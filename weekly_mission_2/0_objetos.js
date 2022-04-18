@@ -70,5 +70,6 @@ const Pet = {
   
   console.log("Ejemplo 5: Objeto con método que recibe parámetros")
   myPet.sayHelloToMyPet("jeny")
+  
 
 
